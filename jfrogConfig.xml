@@ -1,0 +1,11 @@
+<application>
+  <component name="GlobalSettings">
+    <option name="xrayConfig">
+      <XrayServerConfigImpl>
+        <option name="url" value="" />
+        <option name="username" value="" />
+        <password />
+      </XrayServerConfigImpl>
+    </option>
+  </component>
+</application>
