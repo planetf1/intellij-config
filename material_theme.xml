@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-1e6528f6:16df41a1e99:-8000" />
-    <option name="version" value="4.8.0" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
