@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IU-212.3116.43" />
+    <option name="LAST_TIME_CHECKED" value="1622705842973" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/list?channel=EAP&amp;pluginId=com.intellij.bigdecimal-folding" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>

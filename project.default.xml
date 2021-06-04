@@ -1,0 +1,114 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="GOROOT" path="/usr/local/opt/go/libexec" />
+      <component name="GoDepProject">
+        <integration-enabled>true</integration-enabled>
+        <exec-path>/usr/local/bin/dep</exec-path>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="jdkForImporter" value="#JAVA_HOME" />
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <DBN-PSQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false" />
+          </DBN-PSQL>
+          <DBN-SQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false">
+              <option name="STATEMENT_SPACING" value="one_line" />
+              <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+              <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+            </formatting-settings>
+          </DBN-SQL>
+        </code_scheme>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="azul-16" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+        <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="VgoProject">
+        <integration-enabled>true</integration-enabled>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>Python 3.9 (egeria-k8s-operator) interpreter library</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>azul-16</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
