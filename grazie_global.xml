@@ -245,10 +245,5 @@
         <option value="in_excess_of" />
       </set>
     </option>
-    <option name="checkingContext">
-      <CheckingContext>
-        <option name="isCheckInCommitMessagesEnabled" value="true" />
-      </CheckingContext>
-    </option>
   </component>
 </application>
