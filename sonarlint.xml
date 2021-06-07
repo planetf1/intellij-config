@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df93df99dfcbdf9fdfc9df9adfcfdfc9dfccdfcbdf9fdfcbdf9cdfcbdfccdfc9df9edf9bdf99df9bdf9edf9fdf92df9edfc8df98df92df93dfcbdf9cdf9bdf9edfcbdf92df98dfc8df9cdfcfdf99dfc8</token>
+          <option name="name" value="egeria-sonarcloud" />
+          <organizationKey>odpi</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
