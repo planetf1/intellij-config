@@ -2,7 +2,9 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
-        <entry key="ide.usages.page.size" value="1000" />
+        <entry key="ide.usages.page.size" value="2500" />
+        <entry key="localHistory.daysToKeep" value="14" />
+        <entry key="temporary.configurations.limit" value="6" />
         <entry key="vcs.annotations.preload" value="true" />
       </map>
     </option>
